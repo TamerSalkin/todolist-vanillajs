@@ -1,4 +1,4 @@
 Basic todo list
 
-Used Vanilla.js
+Used Vanilla.js,
 Has some CSS animations
